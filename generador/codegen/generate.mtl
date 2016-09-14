@@ -8,7 +8,7 @@
 <html>
  <body>
   <ul>
-   [p.packageElement->filter(Class).generarNombre()/]
+   [p.packagedElement->filter(Class).generarNombre()/]
   </ul>
  </body>
 </html>
